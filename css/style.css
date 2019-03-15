@@ -526,8 +526,6 @@ h6 {
 #about .about-container .icon-box .icon {
   float: left;
   background: #fff;
-  width: 64px;
-  height: 64px;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -551,11 +549,6 @@ h6 {
   transition: all 0.3s ease-in-out;
 }
 
-#about .about-container .icon-box .icon i {
-  color: #007bff;
-  font-size: 24px;
-}
-
 #about .about-container .icon-box:hover .icon {
   background: #007bff;
 }
@@ -565,7 +558,6 @@ h6 {
 }
 
 #about .about-container .icon-box .title {
-  margin-left: 80px;
   font-weight: 600;
   margin-bottom: 5px;
   font-size: 18px;
@@ -576,7 +568,6 @@ h6 {
 }
 
 #about .about-container .icon-box .description {
-  margin-left: 80px;
   line-height: 24px;
   font-size: 14px;
 }
